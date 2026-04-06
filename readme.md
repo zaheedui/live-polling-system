@@ -59,4 +59,3 @@ Displays live vote count for all options.
 ## 👨‍💻 Author
 
 Syed Zaheed, Syed Junaid Ahmed , Yakshit Naidu
-
